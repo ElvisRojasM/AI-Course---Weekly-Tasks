@@ -1,2 +1,2 @@
 # Weekly Tasks - AI Course
-Este repositorio contiene proyectos semanales que trabajé durante mi especialización IA.
+This repository contains the weekly projects I worked on during my AI specialization.
